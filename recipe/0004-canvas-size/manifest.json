@@ -11,7 +11,7 @@
     {
       "id": "https://preview.iiif.io/recipe/0004-canvas-size/canvas/p1",
       "type": "Canvas",
-      "height": 1080,
+      "height": 720,
       "width": 1920,
       "items": [
         {
