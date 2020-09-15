@@ -7,7 +7,7 @@
       {
         "id": "{{ id.path }}/canvas/p1",
         "type": "Canvas",
-        "height": 1080,
+        "height": 720,
         "width": 1920,
         "items": [
           {
