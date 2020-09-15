@@ -11,8 +11,8 @@
     {
       "id": "https://preview.iiif.io/cookbook/0004-canvas-size/recipe/0004-canvas-size/canvas/p1",
       "type": "Canvas",
-      "height": 1080,
-      "width": 1920,
+      "height": 3600,
+      "width": 6400,
       "items": [
         {
           "id": "https://preview.iiif.io/cookbook/0004-canvas-size/recipe/0004-canvas-size/page/p1/1",
